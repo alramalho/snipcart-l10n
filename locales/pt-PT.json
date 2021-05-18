@@ -5,7 +5,8 @@
         "type_address": "Insira a sua morada",
         "use_this_address": "Use esta morada",
         "back_to_store": "Voltar à loja",
-        "close_cart": "Fechar carrinho"
+        "close_cart": "Fechar carrinho",
+        "show": "Mostrar"
     },
     "header": {
         "title_cart_summary": "Sumário do carrinho",
